@@ -1,0 +1,15 @@
+C:\Users\khmav\HW9\ExI_2\bin\Debug\net6.0\ExI_2.exe
+C:\Users\khmav\HW9\ExI_2\bin\Debug\net6.0\ExI_2.deps.json
+C:\Users\khmav\HW9\ExI_2\bin\Debug\net6.0\ExI_2.runtimeconfig.json
+C:\Users\khmav\HW9\ExI_2\bin\Debug\net6.0\ExI_2.dll
+C:\Users\khmav\HW9\ExI_2\bin\Debug\net6.0\ExI_2.pdb
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.csproj.AssemblyReference.cache
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.AssemblyInfoInputs.cache
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.AssemblyInfo.cs
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.csproj.CoreCompileInputs.cache
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.dll
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\refint\ExI_2.dll
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.pdb
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ExI_2.genruntimeconfig.cache
+C:\Users\khmav\HW9\ExI_2\obj\Debug\net6.0\ref\ExI_2.dll
